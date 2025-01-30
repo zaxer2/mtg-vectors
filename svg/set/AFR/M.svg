@@ -37,74 +37,7 @@
    x2="267.25809"
    y2="263.5845"
    gradientTransform="matrix(1,0,0,-1,0,352)">
-		<stop
-   offset="0"
-   style="stop-color:#BB2C26"
-   id="stop1" />
-		<stop
-   offset="9.800000e-03"
-   style="stop-color:#BD2F26"
-   id="stop2" />
-		<stop
-   offset="0.1368"
-   style="stop-color:#D05724"
-   id="stop3" />
-		<stop
-   offset="0.238"
-   style="stop-color:#DC6F23"
-   id="stop4" />
-		<stop
-   offset="0.3"
-   style="stop-color:#E07823"
-   id="stop5" />
-		<stop
-   offset="0.3053"
-   style="stop-color:#E17A23"
-   id="stop6" />
-		<stop
-   offset="0.3616"
-   style="stop-color:#EE8B1F"
-   id="stop7" />
-		<stop
-   offset="0.4232"
-   style="stop-color:#F5951E"
-   id="stop8" />
-		<stop
-   offset="0.5"
-   style="stop-color:#F7981D"
-   id="stop9" />
-		<stop
-   offset="0.5768"
-   style="stop-color:#F5951E"
-   id="stop10" />
-		<stop
-   offset="0.6384"
-   style="stop-color:#EE8B1F"
-   id="stop11" />
-		<stop
-   offset="0.6947"
-   style="stop-color:#E17A23"
-   id="stop12" />
-		<stop
-   offset="0.7"
-   style="stop-color:#E07823"
-   id="stop13" />
-		<stop
-   offset="0.762"
-   style="stop-color:#DC6F23"
-   id="stop14" />
-		<stop
-   offset="0.8632"
-   style="stop-color:#D05724"
-   id="stop15" />
-		<stop
-   offset="0.9902"
-   style="stop-color:#BD2F26"
-   id="stop16" />
-		<stop
-   offset="1"
-   style="stop-color:#BB2C26"
-   id="stop17" />
+		
 	</linearGradient>
 	<polygon
    class="st0"
